@@ -161,10 +161,9 @@
       "position": "Student Activities",
       "startDate": "2017-08-15",
       "endDate": "Present",
-      "summary": "" //Need to add a summary here
+      "summary": "" 
     }
   ],
-  //Create a "Clubs and Organizations" listing
   "awards": [
     {
       "title": "B+ Scholarship",
