@@ -114,36 +114,10 @@
       ]
     }
   ],
-  "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
+  "acivities": [
     {
       "organization": "The Green House Hawaii",
-      "website": "http://thegreenhousehawaii.com/thegreenhouse.shtml", 
+      "website": "http://thegreenhousehawaii.com/thegreenhouse.shtml",
       "position": "Student Leader",
       "startDate": "2016-01-01",
       "endDate": "2017-01-01",
@@ -155,25 +129,11 @@
     },
     {
       "organization": "Malama I' Na Apuua'a (MINA)",
-      "website": "http://socialsciences.hawaii.edu/access/engagement/index.html", 
+      "website": "http://socialsciences.hawaii.edu/access/engagement/index.html",
       "position": "Student Activities",
       "startDate": "2017-08-15",
       "endDate": "Present",
       "summary": "" 
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
