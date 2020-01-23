@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Igniting the fire
+title: Javascript and the Athletic Software Engineer
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23
 labels:
