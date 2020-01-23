@@ -7,7 +7,6 @@ date: 2020-01-23
 labels:
   - Software Engineering
   - Learning
-  -Javascript
 ---
 
 <img class="ui tiny left circular floated image" src="../images/paintbrushes.jpg">
