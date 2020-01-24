@@ -5,7 +5,7 @@ image: images/micromouse.jpg
 title: Knight-Battle
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2020-01-23
 labels:
   - Intro to Programming
   - Java
