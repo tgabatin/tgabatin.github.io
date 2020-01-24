@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: Knight-Battle
-permalink: projects/micromouse
+permalink: projects/knightbattle
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23
 labels:
