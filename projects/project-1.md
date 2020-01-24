@@ -14,8 +14,6 @@ summary: My team member and I created a simple Role-Player-Game for ICS 111, Int
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=C-bpv4Kh5Bo&t=4s" frameborder="0" allowfullscreen=""></iframe>
 
-You can find the repository to this project at this link:
-https://github.com/tgabatin/final-ics-111
 
 ##Introduction
 Knight battle was a simple RPG game created in ICS 111, Intro to Programming. For our final project, we had the option to create whatever project we wanted, within the scope of using a simple programming language, EZ.Java.
@@ -25,3 +23,6 @@ The game is similar to Japanese style RPG's. The main purpose of the game is cen
 
 ##Learning Outcomes
 This project was moderately difficult in terms of programming, as it was the first time that I've ever encountered a development environment that was not entirely my own. I learned to collaborate with another team mate, and work together to achieve a desired outcome. I also learned slightly about project management and object-oriented orientation, which would be a valuable asset in my journey as a programmer. 
+
+You can find the repository to this project below. 
+https://github.com/tgabatin/final-ics-111
