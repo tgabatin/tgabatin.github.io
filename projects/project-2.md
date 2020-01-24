@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/roomba.png
 title: Roomba
 permalink: projects/roomba
 # All dates must be YYYY-MM-DD format!
