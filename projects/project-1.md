@@ -12,7 +12,7 @@ labels:
 summary: My team member and I created a simple Role-Player-Game for ICS 111, Intro to Programming. 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=C-bpv4Kh5Bo&t=4s" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C-bpv4Kh5Bo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
