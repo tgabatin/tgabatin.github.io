@@ -30,3 +30,10 @@ The difference between a good and bad question is whether or not the question ca
 
 ## The Importance of Asking Proper Questions
 
+Proper questions that are clear and consise will yield adequate results. By asking the right kinds of questions, it is highly likely that you're going to get the right kinds of answers. There aren't any bad questions, just questions that need improvements. 
+
+
+There are; however, just questions that aren't really questions at all, and instead reflect how a person feels. Let's try to refrain from those kinds of questions, and stick to the ones that will provide useful information as a developer.
+
+Just for fun:
+![](/images/funnyquestion.png)
