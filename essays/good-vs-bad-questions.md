@@ -22,18 +22,24 @@ Every question is formulated such that a response is given regardless of whether
 
 ![](/images/badquestion.png)
 
+The reason why this is not considered a great question, is because it fits the description about; it is not clear in detail, and it lacks the input required to understand what the person is asking. They want an answer, but they themselves cannot distinguish what that answer is. By first understanding your own question, and understanding what needs to be attained by asking it is important - especially in the world of development. There are so many intricate details required in coding, which can only mean that intricate details are required in questions. Background information, what the user did, where the user got confused, and what the user wishes to attain are what would have made this question better. 
+
 ## Good Questions come with Better Content
 
 The difference between a good and bad question is whether or not the question can be answered without the need to ask questions about the question itself; in other words, it is not recursive in its definition. A good question will not circulate upon the clarity of itself, instead the answer will stem from the context of the question, and the question will otherwise be easy to answer, simply because the person who is asking the question knows the results they are looking for specifically.
 
 ![](/images/goodquestion.png)
 
+Although this is a simple example, it fits the requirements of what is considered a good question. It gives enough background information to the person who is going to answer, explains what the user did before they needed to ask the question, and specifically asks for what they need answered. In other words, the clarity of this question is supported mainly by the content provided, amking it easier to answer. 
+
 ## The Importance of Asking Proper Questions
 
-Proper questions that are clear and consise will yield adequate results. By asking the right kinds of questions, it is highly likely that you're going to get the right kinds of answers. There aren't any bad questions, just questions that need improvements. As a developer, there will be a numerous amount of times where we are going to need to ask questions, simply because we are always learning. Asking questions will allow us to become better software engineers and developers, because we are learning how to understand what we do not know, and search for the answers then. 
+Proper questions that are clear and consise will yield adequate results. By asking the right kinds of questions, it is highly likely that you're going to get the right kinds of answers. There aren't any bad questions, just questions that need improvements. As a developer, there will be a numerous amount of times where we are going to need to ask questions, simply because we are always learning. Asking questions will allow us to become better software engineers and developers, because we are learning how to understand what we do not know, and accept that in order to learn, we must often attain outside help. This outside help; however, is not given without a trade-off; we must also ask smart questions in order to attain a smart answer. 
 
 
 There are; however, just questions that aren't really questions at all, and instead reflect how a person feels. Let's try to refrain from those kinds of questions, and stick to the ones that will provide useful information as a developer. The image below is an example of that.
 
 Just for fun:
 ![](/images/funnyquestion.png)
+
+Just remember, better questions yield better responses! 
