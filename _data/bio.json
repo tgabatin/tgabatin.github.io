@@ -91,6 +91,10 @@
       "endDate": "Present",
       "gpa": "4.0",
       "courses": [
+        "ICS 111 (Java Programming)",
+        "ICS 141/241 (Discrete Mathematics I & II)",
+        "ICS 211 (Data Structures)",
+        "ICS 212 (C Programming)"
       ]
     },
     {
@@ -99,8 +103,15 @@
       "studyType": "B.A.",
       "startDate": "2017-09-01",
       "endDate": "Present",
-      "gpa": "4.0",
+      "gpa": "3.5",
       "courses": [
+        "ECON 300/341 (Intermediate Macro & Micro Economics)",
+        "ECON 321 (Introduction to Statistics)",
+        "ECON 356 (Game Theory & Economic Behavior)",
+        "ECON 358 (Environmental Economics)",
+        "ECON 420 (Mathematical Economics)",
+        "ECON 425 (Introduction to Econometrics)",
+        "ECON 427 (Economic Forecasting)"
       ]
     },
     {
@@ -109,8 +120,10 @@
       "studyType": "Minor",
       "startDate": "2017-09-01",
       "endDate": "Present",
-      "gpa": "4.0",
+      "gpa": "3.0",
       "courses": [
+        "MATH 241/242 (Integral & Differential Calculus)",
+        "MATH 307 (Introduction to Linear Algebra)"
       ]
     }
   ],
