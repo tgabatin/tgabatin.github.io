@@ -8,6 +8,7 @@ permalink: projects/paintsimulator
 date: 2020-01-23
 labels:
   - Java
+  - EZ Java
 summary: A simple painting simulator.
 ---
 
