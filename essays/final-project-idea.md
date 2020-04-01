@@ -8,14 +8,14 @@ labels:
   - Meteor
 ---
 
-#Project: Internship, Volunteer, & Research Search
+# Project: Internship, Volunteer, & Research Search
 
-##Overview
+## Overview
 *The problem*: In college, I believe that it's best for students to make the most of their experience. While it is true that upholding a high GPA will yield fruitful results in the future, there are certain opportunities in college that will enhance the careers of those searching for it. The problem; however, is that students are required to search for these opportunities on their own. Without a clear guide as to which internships, volunteer experiences, study abroad opportunities, and research positions they may be eligible for, the scope and limitations of their search become narrowed. Aside from the narrowed scope of these opportunities, the framework and time it takes to achieve the criteria is limited, because students are not offered a guide on how to get there. 
 
 *The solution*: What this app hopes to accomplish is to make the search a little easier, by automatically generating leads to these opportunities based on the criteria achieved by students. It will then filter out the interests of the students and pair them with opportunities that will be beneficial to their career based on whether they wish to get a job at a company, do research, further their education, etc. It will also allow the leaders of these institutions to get a list of students who meet the criteria, and filter to whom they wish to extend offers to. By allowing students to alleviate the time it takes to search for these opportunities, and instead pair them with interests or propose pathways to them based on these interests, I believe that it will give them a better opportunity to shape their future based on what will make them happy, instead of what will pay them well. 
 
-##Approach
+## Approach
 This app is primarily user-oriented. In order to make the most of this application, students must create an account and interact with the site. When the student creates the account, the landing page is then redirected to a search criteria page, where the user will then filter out their interests, and be paired with opportunities that best fit their needs, whether it be jobs, internships, research opportunities, etc. The page will also display what other students have done to achieve these kinds of opportunities.
 
 This site will also allow students to search for opportunities based on their interests, instead of being automatically paired with the ones that they are eligible for. Students can choose to auto complete forms that will be sent to the intern sites, and the users of the intern sites can see which criteria the student user has met. 
@@ -26,7 +26,7 @@ People are more inclined to achieve great things when they take small steps. Alt
 
 Most people only focus on the end of goal of what they wish to do, instead of what it takes to accomplish it. By incorporating simple design schematics, and encouraging users to "fill their bars" or "move forward in their road map", these incentives will give a better design to aid students in their steps to the future, and provide a step-by-step interactive environment with the site and other users. 
 
-##Mockup Page Ideas
+## Mockup Page Ideas
 * Landing Page
 * Student Home Page
 * User profile page
@@ -34,7 +34,7 @@ Most people only focus on the end of goal of what they wish to do, instead of wh
 * Intern/Research/Study Abroad Page
 * Intern/Research/Study Abroad User Page
 
-##Use Case Idea
+## Use Case Idea
 The following are a list of basic functionality included in the case:
 * Landing page shows an intro to what the site does and achieves. 
 * New Users and Returning Users can log in, and are given instructions on how to register
@@ -42,7 +42,7 @@ The following are a list of basic functionality included in the case:
 * Their interests are then paired with internships, and the criteria that they need to meet are listed in their user info page, along with steps on how to meet the criteria. 
 * Users can also list the internships they have done, and opportunities completed to pair them with alternative opportunities. 
 
-##Beyond the Basics
+## Beyond the Basics
 Some of the alternative advanced features of proposed mockup include:
 * Allow the internship page user to filter through accounts and search for the most promising candidate. 
 * Search for other students who have completed these opportunities and link with them to create a network. 
