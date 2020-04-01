@@ -7,17 +7,17 @@ date: 2020-02-27
 labels:
   - Software Engineering
   - Learning
-  -UI Frameworks
+  - UI Frameworks
 ---
 
-##Swimming and HTML
+## Swimming and HTML
 When I was younger, and even to this day, my favorite sport is swimming. I enjoy pushing myself beyond the boundaries
 of my body, and challenging myself to accomplish new records in time and advance my skillset in terms of this sport. The
 concept of swimming embodies that of fear and bravery - it is not often you hear of those who are afraid of swimming; the fear
 of drowning normally overwhelms the joys associated with floating. That is often why I felt so comfortable with swimming itself.
 It was a leisure past time, and not often required much of my skill other than the fluid movement of my body against the tide.
 
-##Semantic UI and Surfing
+## Semantic UI and Surfing
 HTML(Hyper-Text Markup Language) was no different. I thought of it was a fun and easy concept to grasp - I was able to express
 myself on the internet and create things with ease, and gave no second thought to the boundaries that I would have needed
 to surpass in order to accomplish more when involving this language in web development. All seemed comfortable and well: then came
