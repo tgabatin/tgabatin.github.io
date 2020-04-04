@@ -1,7 +1,7 @@
 ---
 layout: essay
-type: essay/ Or the Coronavirus?
-title: Is It a Cough
+type: essay
+title: Is It a Cough? Or the Coronavirus?
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-03
 labels:
