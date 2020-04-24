@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-title: Ethics and Software: Is it a Feature? Or a Bug?
+title: Ethics and Software, Feature or Bug?
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-23
 labels:
   - Software Engineering
-  - Ethical Practices
+  - Ethics
 ---
 
 ## Why Ethics
