@@ -20,6 +20,8 @@ Link Up Manoa is a web-based platform that was intended to make group-study easi
 
 ## Team Contribution and Building
 
+The following are pages that give a general overview of our project, along with my methods of implementing skills 
+
 ## Login And User Account Registration
 <img class="ui centered large image" src="../images/login.png">
 
