@@ -70,6 +70,7 @@
         "Javascript",
         "HTML",
         "CSS",
+        "Ruby",
         "Python",
         "R"
       ]
@@ -81,9 +82,9 @@
         "Ubuntu",
         "Kali Linux",
         "Git/GitHub",
-        "XCode",
-        "VSCode",
-        "Arduino"
+        "MacOS",
+        "Windows",
+        "JetBrains"
       ]
     }
   ],
@@ -99,8 +100,18 @@
         "ICS 111 (Java Programming)",
         "ICS 141/241 (Discrete Mathematics I & II)",
         "ICS 211 (Data Structures)",
-        "ICS 212 (C Programming)",
-	"ICS 314 (Software Engineering -In Progress)"
+        "ICS 313 (Programming Language Theory)",
+        "ICS 212 (Program Structure)",
+	    "ICS 314 (Software Engineering I)",
+        "ICS 321 (Database Systems)",
+        "ICS 414 (Software Engineering II)",
+        "ICS 435 (Machine Learning)",
+        "ICS 438 (Big Data Visualizaion)",
+        "ICS 451 (Data Networks)",
+        "ICS 464 (Human Computer Interaction)",
+        "ICS 484 (Data Visualizaion)",
+        "ICS 486 (Virtual and Augmented Reality Programming)"
+
       ]
     },
     {
@@ -113,9 +124,9 @@
       "courses": [
         "ECON 300/341 (Intermediate Macro & Micro Economics)",
         "ECON 321 (Introduction to Statistics)",
+        "ECON 430 (Financial Institutions and Markets)",
         "ECON 356 (Game Theory & Economic Behavior)",
         "ECON 358 (Environmental Economics)",
-        "ECON 420 (Mathematical Economics)",
         "ECON 425 (Introduction to Econometrics)",
         "ECON 427 (Economic Forecasting)"
       ]
@@ -129,7 +140,9 @@
       "gpa": "3.0",
       "courses": [
         "MATH 241/242 (Integral & Differential Calculus)",
-        "MATH 307 (Introduction to Linear Algebra)"
+        "MATH 243 (Multi Variable Calculus)",
+        "MATH 307 (Introduction to Linear Algebra)",
+        "MATH 321 (Introduction to Advanced Mathematics)"
       ]
     }
   ],
