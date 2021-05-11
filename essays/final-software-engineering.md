@@ -3,25 +3,39 @@ layout: essay
 type: essay
 title: The Finale of Software Engineering
 # All dates must be YYYY-MM-DD format!
-date: 2020-05-15
+date: 2021-05-11
 labels:
   - Software Engineering
   - Learning
 ---
 
-## Write It On Paper
-Software Engineering. That term was relatively new to me the moment I stepped into my ICS314 class a couple of months ago. I generally understood that becoming a software engineer was one of the job prospects available after graduation, but did not understand precisely what it was that software engineers did. In fact, that was one of the first questions my professor asked our class when we first embarked on this journey. Aside from the general answer of "software management", and "programming", we learned over the course of the semester that software engineering was so much more. More importantly, we learned that software engineering, programming, and anything in the department of computer science took a much more important aspect that was not fundamentally taught in classes. The by-product of becoming a successful software engineer is passion. All the tools and software, regardless of how well we managed them, were useless unless we manifested our passions into technology. That first day, we wrote our passions down on paper. And to this day, I still have it posted on my wall, reminding me to combine my passions with programming.
+## A Reflection Of Software Engineering
 
-## Learning Software Engineering
-In the time span of 3 months and a half, there were a plethora of topics covered in software engineering - some of which stuck out more than others. Open Source Software Development, Functional Programming, and Design Patters in particular stood out to me as programmer, because I thought these three topics would be fundamental in my journey as an aspiring developer. These programs generally become the base of me moving forward as a developer, and gaining a thorough understanding of these topics will help me advance.
+As a senior moving forward in the final stages of my undergraduate career, I am beginning to explore new fields and career paths within the realm of computer science
+that may seem feasible for me. Upon registering for the Software Engineering class, I took it upon myself to learn new methods in this field, and apply what I have learned
+to my future job opportunities. Most of the structure of software engineering itself is in the realm of what it means to be self-taught, so the class itself seemed to be
+this way - with many of the software and concepts that we learn in this class structured around the work life of a software cycle. 
 
-Open Source Software Development was interesting to me, because of the way developers can work together on source code, by making it available to the general public. This means anyone who knows how to use developer tools are generally able to participate in building a project, or people can reference various source code to use in their projects if needed. Design in the program structure can be changed to adhere to the standards of the project, and a variety of people, all of which house different skillsets can come together and work on the open source project together. As a student, I can use this to my advantage, and learn from the open source available on platforms like GitHub, or online.
+One of the hardest things that I needed to personally learn in this class was working with a larger structure of software engineers. Being able to communicate our ideas
+thoroughly, and understand what the other person is saying through their code was one of the most important takeaways I got. It is not good enough to write amazing code. 
+Other people need to be able to understand what is going on in the code in order to contribute to the project, and constantly have meetings and communicate their
+ideas in order to create a solution. This taught me that although it is possible to create code entirely on our own, it is the collaborative effort of a group that allows 
+these contributions to come to fruition. 
 
-The second topic covered in Software Engineering was functional programming. At first, this topic was relatively difficult to me, considering the parameters of functional programming were methods that returned either a function or a value. I was used to the standard of object-oriented programming, where a value is passed into parameters, and in return, would return another value. Functional programming was difficult to me, because of the way you had to keep track of not only the variables present within a given method, but the return values of an actual method. The concept of passing in methods as parameters were not only new to me, but required me to practice more to this day. Although functional programming is not present in all programming languages, it is still a valuable asset that I wish to get better at beyond the scope of this class.
+Software Engineering also comes with the ability to learn and create constantly. Throughout the realm of our software engineering cycle, one of the most positive things we did learn
+were the amounts of resources available in order to create a project. Being able to add these resources to our product was somewhat of a learning curve - we needed to be able to test
+and produce different aspects of software in order to see what would be the best fit for the projects that we would push forward. This included researching different ideas that would 
+look like they could potentially fit for the project, and being able to see what types of packages could be included. Although we didn't know how to work most of these at first,
+we were able to research and find new methods of being able to push our software forward to create a new product at each stage of development. 
 
-The final topic covered in software engineering that I thought was useful beyond the scope of web development are design patterns. Although this topic was covered late into the semester, I think that it's useful beyond the scope of web development, because it deals with the data structures in object-oriented design. Depending on the outcome of the potential program, design patterns can come in useful when creating the structure of basis of a program, and what its initial and final product will look like it. Since certain problems in software design may be recurring, or some solutions to the problems presented in software are difficult to solve, design patterns provide a generalized way of solving the problem using methods implemented in the past. By getting a greater understanding of how I can use these design patters in my programming, it will make it easier to create tangible solutions in my code that I can carry on beyond this class.
+One of the most influential things I've learned in this class was how to use GitHub effectively to collaborate with team members, and get a good control and grap on terminal commands
+to ensure that none of the branches that we all worked on together would potentially get destroyed or changed. Being able to see how much work is actually put into a project on the coding
+side of things allowed me to discover that Software Engineering is an ongoing process. Another thing that I learned was that outside of what you see in the code, most of sotware engineering
+also involves careful planning and dedication. This means that before any code is committed, to ensure that the project has a certain "look" or feel, the first thing that you need to do
+is be able to plan out the project. This means talking with team mates and making sure that we all have the same concept of what the product delivery should look like. 
 
-## The Final Level of Software Engineering
-When asked in the beginning of the semester what my passion was, the word that I wrote down on paper was "Learning". At the end of the semester, reflecting on this answer, I still believe that it is a passion that I will continue to take beyond software engineering and development. By taking a step into the world of software engineering, and learning the technology associated with it, I believe that I can continue to grow as a developer, and create new things that aspire me to continue to learn more each day.
+Overall, my experience in the Software Engineering class was a positive one. One of the most important things I wish could be incorporated was the software engineering cycle, such 
+as software quality assurance. This would allow us to test our code and ensure it fits the standards of what is expected to be pushed forward. Although this semester has now come to
+a close, I will take what I have learned in software engineering, and apply these principles to my future classes and potential employers. 
 
 
